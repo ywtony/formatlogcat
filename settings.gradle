@@ -1,0 +1,2 @@
+include ':app', ':logcatformatlib'
+rootProject.name='FormatLogcatDemo'

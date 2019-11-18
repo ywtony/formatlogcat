@@ -37,6 +37,6 @@ Retrofit+RxJava+OkHttp输出网络请求的日志（请求和响应）
     }
 		
    3.效果如下图所示：
-		![效果图](https://github.com/ywtony/formatlogcat/blob/master/app/logcat2.jpg "参考图")
+		![效果图](https://github.com/ywtony/formatlogcat/blob/master/app/logcat1.jpg "参考图")
 		![效果图](https://github.com/ywtony/formatlogcat/blob/master/app/logcat2.jpg "参考图")
     

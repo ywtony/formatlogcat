@@ -1,2 +1,2 @@
-include ':app', ':logcatformatlib'
+include ':app', ':logcatformatlib', ':customimageview'
 rootProject.name='FormatLogcatDemo'
